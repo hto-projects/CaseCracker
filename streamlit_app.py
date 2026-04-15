@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.impute import SimpleImputer
-import subprocess
-import sys
 
 # --- Load and prepare data ---
 @st.cache_data
