@@ -1,5 +1,5 @@
 [project]
-name = "Case Cracker"
+name = "CaseCracker"
 version = "0.1.0"
 description = "Enter data to predict the outcome of a case."
 readme = "README.md"
